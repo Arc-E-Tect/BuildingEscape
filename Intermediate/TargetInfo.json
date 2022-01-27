@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BuildingEscape",
+			"Path": "D:\\Projects\\Udemy\\Unreal\\4.25\\BuildingEscape\\Source\\BuildingEscape.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BuildingEscapeEditor",
+			"Path": "D:\\Projects\\Udemy\\Unreal\\4.25\\BuildingEscape\\Source\\BuildingEscapeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
