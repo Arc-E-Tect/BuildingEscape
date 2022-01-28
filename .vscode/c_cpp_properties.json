@@ -4,15 +4,14 @@
             "name": "UnrealEngine",
             "includePath": [
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source",
-                "D:\\Projects\\Udemy\\Unreal\\4.25\\BuildingEscape\\Source",
+                "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Intermediate\\Build\\Win64\\UE4Editor\\Inc\\Engine",
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\Runtime",
+                "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\Runtime\\Engine\\Classes",
+                "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\Runtime\\Engine\\Public",
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\Runtime\\TraceLog\\Public",
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\Runtime\\Core\\Public",
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Intermediate\\Build\\Win64\\UE4Editor\\Inc\\CoreUObject",
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\Runtime\\CoreUObject\\Public",
-                "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Intermediate\\Build\\Win64\\UE4Editor\\Inc\\Engine",
-                "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\Runtime\\Engine\\Classes",
-                "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\Runtime\\Engine\\Public",
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Intermediate\\Build\\Win64\\UE4Editor\\Inc\\NetCore",
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\Runtime\\Net",
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\Runtime\\Net\\Core\\Classes",
@@ -203,6 +202,8 @@
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\Runtime\\Experimental\\GeometryCollectionSimulationCore\\Public",
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Intermediate\\Build\\Win64\\UE4Editor\\Inc\\ClothingSystemRuntimeInterface",
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\Runtime\\ClothingSystemRuntimeInterface\\Public",
+                "D:\\Projects\\Udemy\\Unreal\\4.25\\BuildingEscape\\Intermediate\\Build\\Win64\\UE4Editor\\Inc\\BuildingEscape",
+                "D:\\Projects\\Udemy\\Unreal\\4.25\\BuildingEscape\\Source",
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\ThirdParty\\PhysX3\\PxShared\\include",
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\ThirdParty\\PhysX3\\PxShared\\include\\cudamanager",
                 "F:\\Program Files\\Epic Games\\UE_4.25\\Engine\\Source\\ThirdParty\\PhysX3\\PxShared\\include\\filebuf",
@@ -234,10 +235,7 @@
                 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.18362.0\\winrt"
             ],
             "intelliSenseMode": "msvc-x64",
-            "defines": [],
-            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe",
-            "cStandard": "c17",
-            "cppStandard": "c++17"
+            "defines": []
         }
     ],
     "version": 4

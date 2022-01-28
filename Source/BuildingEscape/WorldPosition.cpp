@@ -2,6 +2,7 @@
 
 
 #include "WorldPosition.h"
+#include "GameFramework/Actor.h"
 
 // Sets default values for this component's properties
 UWorldPosition::UWorldPosition()
@@ -19,8 +20,8 @@ void UWorldPosition::BeginPlay()
 {
 	Super::BeginPlay();
 
-	// ...
-	
+	FString OwnerName = GetOwner()->GetName();
+	UE_LOG(LogTemp, Warning, TEXT("The name of the actor is: %s"), *OwnerName);
 }
 
 
